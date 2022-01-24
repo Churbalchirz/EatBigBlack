@@ -18,7 +18,7 @@ _🦌 网页小游戏 🥛_
 
 线上版本:https://xingye.me/game/eatkano/index.php
 
-Github Page:https://Churbalchirz.github.io/EatBigBlack/index.html
+Github Page:https://Churbalchirz.github.io/EatBigBlack/blob/main/index.html
 
 ## 可选功能
 
